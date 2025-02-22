@@ -4,8 +4,8 @@
 
 ## LLM 만들기 - 사전학습
 
-유튜브 영상 - 녹화정
+[유튜브 강의 영상 링크](https://youtu.be/osv2csoHVAo)
 
-강의노트 - pretraining.ipynb
+강의노트 pretraining.ipynb 파일 보세요
 
 
