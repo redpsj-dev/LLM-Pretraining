@@ -6,6 +6,6 @@
 
 [유튜브 강의 영상 링크](https://youtu.be/osv2csoHVAo)
 
-강의노트 pretraining.ipynb 파일 보세요
+강의노트 [pretraining.ipynb](https://github.com/HongLabInc/HongLabLLM/blob/main/pretraining.ipynb) 파일 보세요
 
 
