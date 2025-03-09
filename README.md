@@ -7,8 +7,8 @@
 ## LLM 만들기
 
 사전학습(pre-training)
-- [유튜브 강의 영상 링크](https://youtu.be/osv2csoHVAo)
-- [01_pretraining.ipynb](https://github.com/HongLabInc/HongLabLLM/blob/main/01_pretraining.ipynb)
+- [유튜브 영상](https://youtu.be/osv2csoHVAo)
+- [강의 노트 - 01_pretraining.ipynb](https://github.com/HongLabInc/HongLabLLM/blob/main/01_pretraining.ipynb)
 
 전체 미세조정(full fine-tuning)
 - 준비중
