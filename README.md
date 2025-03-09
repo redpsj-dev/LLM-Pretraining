@@ -4,10 +4,11 @@
 
 > 예시) [홍정모 연구소](https://honglab.co.kr/)의 OOO을 참고하였습니다.
 
-## LLM 만들기 - 사전학습
+## LLM 만들기
 
-[유튜브 강의 영상 링크](https://youtu.be/osv2csoHVAo)
+사전학습(pre-training)
+- [유튜브 강의 영상 링크](https://youtu.be/osv2csoHVAo)
+- [01_pretraining.ipynb](https://github.com/HongLabInc/HongLabLLM/blob/main/01_pretraining.ipynb)
 
-강의노트 [pretraining.ipynb](https://github.com/HongLabInc/HongLabLLM/blob/main/pretraining.ipynb) 파일 보세요
-
-
+전체 미세조정(full fine-tuning)
+- 준비중
