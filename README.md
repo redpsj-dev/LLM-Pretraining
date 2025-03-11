@@ -12,3 +12,38 @@
 
 전체 미세조정(full fine-tuning)
 - 준비중
+
+## 환경 설정 및 설치
+
+### Case 1: Standalone
+```bash
+brew install jupyterlab
+brew services start jupyterlab
+```
+
+### Case 2: Vscode Extention
+```bash
+jupyter notebook
+```
+
+### 가상환경 생성
+```bash
+python -m venv .venv
+source .venv/bin/activate
+deactivate
+```
+
+### 라이브러리 설치
+```bash
+pip install transformers
+pip install ipywidgets
+pip install tiktoken
+pip install torch torchvision torchaudio
+pip install matplotlib
+```
+
+### Mac CPU, GPU Status
+```bash
+brew install vladkens/tap/macmon
+macmon
+```
